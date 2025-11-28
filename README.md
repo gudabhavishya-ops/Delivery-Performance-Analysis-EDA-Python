@@ -73,3 +73,10 @@ Open the `.ipynb` file and run all cells in Jupyter Notebook or JupyterLab.
 [Click here to view the notebook]
 (https://github.com/gudabhavishya-ops/Delivery-Performance-Analysis-EDA-Python/blob/main/Delivery_Analysis_Project.ipynb)
 
+##  Author
+**G.L.Bhavishya**
+
+##  Contact
+- Email: gudabhavishya@gmail.com 
+- LinkedIn: www.linkedin.com/in/bhavishya-guda-803b46264
+
