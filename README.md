@@ -68,3 +68,8 @@ Python · Pandas · Matplotlib · Seaborn · Plotly
 
 ## ▶️ How to Run
 Open the `.ipynb` file and run all cells in Jupyter Notebook or JupyterLab.
+
+## Notebook:
+[Click here to view the notebook]
+(https://github.com/gudabhavishya-ops/Delivery-Performance-Analysis-EDA-Python/blob/main/Delivery_Analysis_Project.ipynb)
+
