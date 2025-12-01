@@ -78,5 +78,5 @@ Open the `.ipynb` file and run all cells in Jupyter Notebook or JupyterLab.
 
 ##  Contact
 - Email: gudabhavishya@gmail.com 
-- LinkedIn: www.linkedin.com/in/bhavishya-guda-803b46264
+- LinkedIn: www.linkedin.com/in/bhavishya-guda
 
